@@ -4,6 +4,7 @@ title: Nuno Barros
 published: true
 subtitle: O Homem que viajou por 27 países e nasceu a cantarolar.
 image: img/avatar-icon.png
+date: '2015-01-04'
 ---
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fbeneficiodaduvida%2Fbenef%C3%ADcio-da-d%C3%BAvida-nuno-barros%2F" frameborder="0" ></iframe>
