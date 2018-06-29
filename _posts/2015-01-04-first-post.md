@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Nuno Barros
-image: /img/hello_world.jpeg
 published: true
+subtitle: >-
+  Nuno Barros ,o Homem que viajou por 27 países e nasceu a cantarolar, faz-nos
+  companhia na primeira edição do podcast -Benefício da Dúvida
+date: '2015'
 ---
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fbeneficiodaduvida%2Fbenef%C3%ADcio-da-d%C3%BAvida-nuno-barros%2F" frameborder="0" ></iframe>
