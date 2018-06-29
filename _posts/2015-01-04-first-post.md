@@ -3,7 +3,7 @@ layout: post
 title: Nuno Barros
 published: true
 subtitle: O Homem que viajou por 27 países e nasceu a cantarolar.
-image: img/avatar-icon.png
+image: /img/avatar-icon.png
 date: '2015-01-04'
 ---
 
