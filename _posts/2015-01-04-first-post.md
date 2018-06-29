@@ -2,10 +2,7 @@
 layout: post
 title: Nuno Barros
 published: true
-subtitle: >-
-  Nuno Barros ,o Homem que viajou por 27 países e nasceu a cantarolar, faz-nos
-  companhia na primeira edição do podcast -Benefício da Dúvida
-date: '2015'
+subtitle: O Homem que viajou por 27 países e nasceu a cantarolar.
 image: img/avatar-icon.png
 ---
 
