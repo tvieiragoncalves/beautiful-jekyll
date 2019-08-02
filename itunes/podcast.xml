@@ -25,7 +25,7 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:keywords>Portugal, humor , comédia, programa de autor, sotrytelling, pessoal, benefício da dúvida, beneficio da duvida, storytelling, entrevista, biografia</itunes:keywords>
-        <itunes:image href="https://github.com/tvieiragoncalves/tvieiragoncalves.github.io/raw/master/itunes/logo.jpg"/>
+        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/tvieiragoncalves.github.io/master/itunes/logo.jpg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:block>no</itunes:block>
       <item>
