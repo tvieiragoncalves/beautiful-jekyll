@@ -23,9 +23,9 @@ description:  O Benefício da Dúvida é um Podcast com Tiago Gonçalves, à con
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Sobremim"
+  Sobre mim: "Sobremim"
 
-  Author's home: "https://www.linkedin.com/in/tvieiragoncalves/"
+  Outros projectos: "https://www.linkedin.com/in/tvieiragoncalves/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
