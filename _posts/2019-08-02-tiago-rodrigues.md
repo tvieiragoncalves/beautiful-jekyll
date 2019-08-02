@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Joel Dias
+title: Tiago Rodrigues
 image: /img/avatar-icon.png
 date: '2019-08-02'
 subtitle: Tiago Rodrigues - "um músico multifacetado, faz-nos companhia no 3º benefício da dúvida"
