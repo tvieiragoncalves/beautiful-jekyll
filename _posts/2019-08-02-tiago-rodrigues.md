@@ -6,7 +6,7 @@ image: /img/avatar-icon.png
 date: '2019-08-02'
 subtitle: Tiago Rodrigues - "um músico multifacetado, faz-nos companhia no 3º benefício da dúvida"
 ---
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fbeneficiodaduvida%2Fbenef%C3%ADcio-da-d%C3%BAvida-engenheiro-morais-diz%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fbeneficiodaduvida%2Fbenef%C3%ADcio-da-d%C3%BAvida-tiago-rodrigues%2F" frameborder="0" ></iframe>
 
 Tiago Rodrigues, um músico multifacetado, faz-nos companhia no 3º benefício da dúvida.
 O Maestro da Atípica orquestra, instrumentista dos Postas de Bacalhau, Guitarrista da AMEIABESTA, e com participações nos projectos DOIIS e Pião das Nicas, entre muitos outros, mostra-nos como se pode fazer uma composição híbrida relativizando os limites tradionais de cada categoria musical.
